@@ -1,16 +1,28 @@
-## Hi there 👋
+# Murilo Thomé
 
-<!--
-**mthomedev/mthomedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-end developer focused on JavaScript and modern web interfaces.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently learning and building projects with JavaScript
+- Interested in UI/UX and interactive applications
+- Focused on improving skills and building a strong portfolio
+
+## Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+## Projects
+
+### Chronometer
+A responsive chronometer built with pure JavaScript, featuring lap tracking, local storage and a modern UI.
+
+[View Project](https://github.com/mthomedev/Chronometer)
+
+## Goals
+
+- Build real-world projects
+- Master front-end development
+- Work professionally as a developer
