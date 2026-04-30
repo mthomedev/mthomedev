@@ -21,6 +21,11 @@ A responsive chronometer built with pure JavaScript, featuring lap tracking, loc
 
 [View Project](https://github.com/mthomedev/Chronometer)
 
+### Discount & Installment Calculator
+A modern and responsive financial calculator for simulating discounts and installment plans, built with clean JavaScript and focused on precision, usability, and user experience.
+
+[View Project](https://github.com/mthomedev/Discount-and-Installment-Calculator)
+
 ## Goals
 
 - Build real-world projects
